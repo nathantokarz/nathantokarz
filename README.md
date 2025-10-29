@@ -8,10 +8,10 @@ I build systems that are **intuitive, scalable, and data-driven** — from **Nex
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** JavaScript, TypeScript, Go, Java, Swift, Kotlin  
+**Languages:** JavaScript, TypeScript, Python  
 **Frameworks & Tools:** React, Next.js, Electron, Node.js, MongoDB, DuckDB, AWS, Vite, Material UI  
-**AI & APIs:** OpenAI API, LangChain, Ollama  
-**DevOps:** Vercel, Heroku, Git, Docker  
+**AI & APIs:** OpenAI API, Ollama  
+**DevOps:** Vercel, Heroku, Git
 
 ---
 
