@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Nathan Tokarz
+I love building intelligent systems that merge design, data, and engineering — transforming complex ideas into intuitive, beautiful experiences.
 
 💡 **Creative Full-Stack Engineer | Electron & Next.js Specialist | Data-Driven UI/UX Builder**
 
