@@ -9,7 +9,7 @@ I build systems that are **intuitive, scalable, and data-driven** — from **Nex
 
 ### ⚙️ Tech Stack
 **Languages:** JavaScript, TypeScript, Python  
-**Frameworks & Tools:** React, Next.js, Electron, Node.js, MongoDB, DuckDB, AWS, Vite, Material UI  
+**Frameworks & Tools:** React, Next.js, Electron, Node.js, MongoDB, DuckDB, Redis, AWS, Vite, Material UI  
 **AI & APIs:** OpenAI API, Ollama  
 **DevOps:** Vercel, Heroku, Git
 
@@ -31,4 +31,4 @@ I build systems that are **intuitive, scalable, and data-driven** — from **Nex
 ---
 
 ### 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/nathantokarz) • [Portfolio](#) • [Email](mailto:nathantokarz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathantokarz) • [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#) • [![Email](https://img.shields.io/badge/Email-555?logo=gmail&logoColor=white)](mailto:nathantokarz@gmail.com)
