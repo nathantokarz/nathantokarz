@@ -31,4 +31,4 @@ I build systems that are **intuitive, scalable, and data-driven** — from **Nex
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathantokarz) • [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#) • [![Email](https://img.shields.io/badge/Email-555?logo=gmail&logoColor=white)](mailto:nathantokarz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathantokarz) • [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://nathan-tokarz.vercel.app/) • [![Email](https://img.shields.io/badge/Email-555?logo=gmail&logoColor=white)](mailto:nathantokarz@gmail.com)
