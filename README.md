@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan Tokarz
 
-💡 **Creative Full-Stack Engineer | Electron & Next.js Specialist | Data-Driven UI/UX Builder**
+💡 **Staff Software Engineer | Electron & Next.js Specialist | Data-Driven UI/UX Builder**
 
 I'm passionate about crafting modern desktop and web applications that merge design, performance, and intelligence.  
 I build systems that are **intuitive, scalable, and data-driven** — from **Next.js SaaS platforms** and **Electron analytics tools** to **AI-powered interfaces** and **DuckDB-backed data engines**.
